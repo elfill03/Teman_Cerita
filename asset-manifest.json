@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31bb47f0.css",
+    "main.js": "/static/js/main.c4d271a9.js",
+    "static/js/988.e0cabee3.chunk.js": "/static/js/988.e0cabee3.chunk.js",
+    "static/media/psikolog astrid.jpg": "/static/media/psikolog astrid.ce947eae00ff6e42336a.jpg",
+    "static/media/psikolog eva.jpg": "/static/media/psikolog eva.489f6fc0137c73544951.jpg",
+    "static/media/friendship.png": "/static/media/friendship.5cb5c54867d948199682.png",
+    "static/media/psikolog owen.jpg": "/static/media/psikolog owen.8f11d14d18626ded56ba.jpg",
+    "static/media/psikolog elyse.jpg": "/static/media/psikolog elyse.4713ec061917b3e16450.jpg",
+    "static/media/psikolog nathan.jpg": "/static/media/psikolog nathan.df8aa25675252c372c05.jpg",
+    "static/media/psikolog dipta.jpg": "/static/media/psikolog dipta.bff3177b82c47856d0c2.jpg",
+    "static/media/home-pict.png": "/static/media/home-pict.248f76385d560861c59b.png",
+    "static/media/testi-1.png": "/static/media/testi-1.9b1f26b5e658487f0e7f.png",
+    "static/media/anxiety.png": "/static/media/anxiety.e37f7d2d0b6258bc6b5a.png",
+    "static/media/testi-2.png": "/static/media/testi-2.4bd451ec428014db5cbe.png",
+    "static/media/testi-4.png": "/static/media/testi-4.f916b8752a919764ab73.png",
+    "static/media/family.png": "/static/media/family.a5753e828323e7dfa8ae.png",
+    "static/media/romance.png": "/static/media/romance.0fb0aa64f07f2050d99c.png",
+    "static/media/testi-3.png": "/static/media/testi-3.fc5ee56823404a3e589d.png",
+    "static/media/tahap-1.png": "/static/media/tahap-1.03c904ab80e6399d3cb0.png",
+    "static/media/mentally.png": "/static/media/mentally.9056da224ac092a6d117.png",
+    "static/media/deppresion.png": "/static/media/deppresion.5a4d103b914d9fd568c4.png",
+    "static/media/tahap-2.png": "/static/media/tahap-2.d71bf658ec0227a6d042.png",
+    "static/media/tahap-3.png": "/static/media/tahap-3.4f0d1b20c7861a328872.png",
+    "index.html": "/index.html",
+    "main.31bb47f0.css.map": "/static/css/main.31bb47f0.css.map",
+    "main.c4d271a9.js.map": "/static/js/main.c4d271a9.js.map",
+    "988.e0cabee3.chunk.js.map": "/static/js/988.e0cabee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31bb47f0.css",
+    "static/js/main.c4d271a9.js"
+  ]
+}
